@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95054754-47b2-4ae4-9d08-8614af3b69e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apuntes ADA 17-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Ejer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Ejer10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Ejer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Ejer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Ejer4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Ejer5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Ejer6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Ejer7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Ejer8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Ejer9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql/LoginHandleDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/DatabaseConnection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WtPBViu2jK8DcIkJowIYp0msqi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Usuario/OneDrive/Documentos/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.46781608",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95054754-47b2-4ae4-9d08-8614af3b69e1" name="Changes" comment="" />
+      <created>1697548767628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697548767628</updated>
+      <workItem from="1697548768633" duration="1881000" />
+      <workItem from="1697550675710" duration="4771000" />
+      <workItem from="1697635486307" duration="284000" />
+      <workItem from="1697641608386" duration="10878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
