@@ -104,16 +104,13 @@ public class LoginHandleDB {
         }
     }
     public static void updateLogin(Login login){
-        long idToSearch = login.getId();
         try {
             Connection conn = DatabaseConnection.getConnection();
-            PreparedStatement st = conn.prepareStatement("select username, password from login where id=?");
-            st.setLong(1,idToSearch);
-            ResultSet rs = st.executeQuery();
-            while (rs.next()){
-                login.setUsername(rs.getString("username"));
-                login.setPassword(rs.getString("password"));
-            }
+            PreparedStatement st = conn.prepareStatement("update login set username=?, password=? where id=?");
+            st.setString(1, login.getUsername());
+            st.setString(2, login.getPassword());
+            st.setLong(3,login.getId());
+            st.executeUpdate();
         } catch (SQLException e) {
             System.err.println(e.getSQLState() + " " + e.getMessage());
         }

@@ -13,13 +13,6 @@ public class Ejer8 {
         List<Login> logins = LoginHandleDB.getLogins();
         Login login = logins.get(0);
         System.out.println(login);
-        try {
-            Connection conn = DatabaseConnection.getConnection();
-            Statement st = conn.createStatement();
-            st.executeUpdate("update login set username='aaa', password='bbb' where id=1");
-        } catch (SQLException e) {
-            System.err.println(e.getSQLState() + " " + e.getMessage());
-        }
         LoginHandleDB.updateLogin(login);
         System.out.println(login);
     }
