@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95054754-47b2-4ae4-9d08-8614af3b69e1" name="Changes" comment="Subida tarea 1 Unidad 2 Daniel Coll">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="95054754-47b2-4ae4-9d08-8614af3b69e1" name="Changes" comment="Resubida tarea 1 Unidad 2 Daniel Coll">
       <change beforePath="$PROJECT_DIR$/src/app/Ejer8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Ejer8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <workItem from="1697641608386" duration="12014000" />
       <workItem from="1697721648056" duration="1254000" />
       <workItem from="1697723704952" duration="2091000" />
-      <workItem from="1697727603522" duration="2015000" />
+      <workItem from="1697727603522" duration="2369000" />
     </task>
     <task id="LOCAL-00001" summary="Subida tarea 1 Unidad 2 Daniel Coll">
       <option name="closed" value="true" />
@@ -84,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697654067482</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Resubida tarea 1 Unidad 2 Daniel Coll">
+      <option name="closed" value="true" />
+      <created>1697729855903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697729855903</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Subida tarea 1 Unidad 2 Daniel Coll" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subida tarea 1 Unidad 2 Daniel Coll" />
+    <MESSAGE value="Resubida tarea 1 Unidad 2 Daniel Coll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resubida tarea 1 Unidad 2 Daniel Coll" />
   </component>
 </project>
